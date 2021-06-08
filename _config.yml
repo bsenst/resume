@@ -53,8 +53,8 @@ resume_social_links:
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "https://bsenst.github.io"
   # resume_medium_url:            "https://medium.com/@jglovier"
-  resume_kaggle_url:            "https://www.kaggle.com/bnzn261029
-  resume_researchgate_url:      "https://www.researchgate.net/profile/Benjamin-Senst/"
+  # resume_kaggle_url:            "https://www.kaggle.com/bnzn261029
+  # resume_researchgate_url:      "https://www.researchgate.net/profile/Benjamin-Senst/"
 resume_print_social_links:      true
 
 # Design settings
